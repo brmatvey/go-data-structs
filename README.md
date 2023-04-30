@@ -2,6 +2,11 @@
 
 ## Provide simple implementations for absence data structs in golang
 
+Getting started
+```bash
+go get -u https://github.com/brmatvey/go-data-structs
+```
+
 - ### Stack
 
 ```go
